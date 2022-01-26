@@ -1,5 +1,8 @@
 # React-App
 
+A Music Player includes almost ten Lo-Fi Music  which anyone can listen while coding .It is completely responsive Web App with many  animations  of css.
+This Project is based on React.js . I deploy it on herokuapp 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
